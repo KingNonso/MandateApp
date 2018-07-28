@@ -8,7 +8,7 @@
 	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-	<title>Mandate App -  @yield('title')</title>
+	<title>GodLife App -  @yield('title')</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -44,8 +44,8 @@
     	<div class="sidebar-wrapper">
             <div class="logo">
                 <a href="{{ url('/') }} " class="simple-text">
-                <img class="avatar border-white" src="{{ asset('img/lfc_small.png') }}" alt="..." />
-                    Mandate App
+                <img class="avatar border-white" src="{{ asset('img/godlifeassembly.jpg') }}" alt="..." height="50px" width="50px" />
+                    GodLife App
                 </a>
             </div>
 
@@ -159,8 +159,8 @@
                     <ul>
 
                         <li>
-                            <a href="http://www.lfcww.org">
-                                For Living Faith Church Worldwide Digital Evangelism Campaign
+                            <a href="http://www.mygodlife.org">
+                                For The God Life Assembly International
                             </a>
                         </li>
                         

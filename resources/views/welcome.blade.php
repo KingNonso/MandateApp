@@ -6,7 +6,7 @@
 -->
 <html>
 <head>
-    <title>The Mandate App - Crowd Sourced Evangelism Platform</title>
+    <title>The GodLife App - The God Life Assembly International</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="{{ asset('js/frontend/ie/html5shiv.js') }}"></script><![endif]-->
@@ -24,11 +24,11 @@
         <!-- Logo -->
         <div id="logo">
             <div>
-                <img class="avatar border-white" src="{{ asset('img/lfc.png') }}" alt="..." height="100" width="100" />
+                <img class="avatar border-white" src="{{ asset('img/gla.jpg') }}" alt="..." height="100" width="100" />
             </div>
 
-            <h1><a href="index.html">The Mandate App </a></h1>
-            <p>A Crowd Sourced Evangelism Platform for Living Faith Church Worldwide</p>
+            <h1><a href="index.html">The God Life Assembly </a></h1>
+            <p> Raising a pure breed</p>
         </div>
         <!-- Nav -->
         <nav id="nav">
@@ -50,11 +50,11 @@
     <section id="intro" class="container">
         <p class="style1">So in case you were wondering what this is all about ...</p>
         <p class="style2">
-            The Mandate App is a Digital Church Administration platform built upon the principles of Wonder Double Church Growth Prophetic Agenda
+            This is the God Life App and it is a Digital Church Administration platform.
         </p>
-        <p class="style3">It's <strong>responsive</strong>, built on <strong>the Latest Web Technologies</strong> and <strong>adept for people without smart phones or areas without internet penetration</strong>
+        <p class="style3">It's <strong>responsive</strong>, built on <strong>the Latest Web Technologies</strong> and <strong>can be adept for people without smart phones or areas without internet penetration</strong>
         through readily available SMS and USSD Services. <br/>
-            Project began in 2016 in Living Faith Church Ifite, Awka, Anambra state under the auspices of Pst. Superior Okpo (now R.P. at Warri Church) and brought to fruition now.
+            A companion mobile application will also be built in due course.
         </p>
         <ul class="actions">
             <li><a href="{{ url('register') }}" class="button style3 big">Proceed</a></li>
@@ -84,7 +84,7 @@
                         <section>
                             <h3 class="icon fa-comment">Team Evangelism and Follow-up</h3>
                             <p>
-                                The Mandate App allows people to form teams and members report souls won (new converts) for follow up by other team members and the church at large
+                                This web application allows people to form teams and members report souls won (new converts) for follow up by other team members and the church at large
                             </p>
                         </section>
                     </div>
@@ -93,6 +93,8 @@
                             <h3 class="icon fa-refresh">Instant Feedback and Follow-up</h3>
                             <p>
                                 Using responsive web service and internet technologies, this system is able to send follow up messages to the new converts. These messages include messages of inspiration, encouragement and invitation to church to the new convert everyday for the next 7 days, once the details of the new convert has been inputed.
+                                <br>
+                                This has not been integrated yet.
                             </p>
                         </section>
                     </div>
@@ -261,7 +263,7 @@
     </div>
     <div id="copyright">
         <ul>
-            <li>&copy; 2018 - Built With Love for LFC World wide by <a href="www.kingnonso.com"> King Nonso</a> </li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+            <li>&copy; 2018 - Built With Love for The God Life Assembly by <a href="www.kingnonso.com"> King Nonso</a> </li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
         </ul>
     </div>
 </div>

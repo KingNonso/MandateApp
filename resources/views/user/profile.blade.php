@@ -8,7 +8,7 @@
                     <div class="col-lg-4 col-md-5">
                         <div class="card card-user">
                             <div class="image">
-                                <img src="{{ asset('img/background.jpg') }}" alt="..."/>
+                                <img src="{{ asset('img/gla.jpg') }}" alt="..." />
                             </div>
                             <div class="content">
                                 <div class="author">
@@ -160,10 +160,11 @@
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label>About Me</label>
-                                                <textarea rows="5" class="form-control border-input" placeholder="Here can be your description" value="Mike">Oh so, your weak rhyme
-You doubt I'll bother, reading into it
-I'll probably won't, left to my own devices
-But that's the difference in our opinions.</textarea>
+                                                <textarea rows="5" class="form-control border-input" placeholder="Here can be your description" value="Mike">
+                                                    A child of God
+                                                    A Son of the most high
+
+                                                </textarea>
                                             </div>
                                         </div>
                                     </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Mandate App -  @yield('title')</title>
+    <title>GodLife App -  @yield('title')</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.6 -->
@@ -34,9 +34,9 @@
 <!-- Logo -->
 <a href="index2.html" class="logo">
     <!-- mini logo for sidebar mini 50x50 pixels -->
-    <span class="logo-mini"><b>M</b>App</span>
+    <span class="logo-mini"><b>G</b>LA</span>
     <!-- logo for regular state and mobile devices -->
-    <span class="logo-lg"><b>Mandate</b> App</span>
+    <span class="logo-lg"><b>GodLife</b> App</span>
 </a>
 <!-- Header Navbar: style can be found in header.less -->
 <nav class="navbar navbar-static-top">
@@ -277,7 +277,7 @@
 <!-- /.content-wrapper -->
 <footer class="main-footer">
     <div class="pull-right hidden-xs">
-        <b>For</b> Winners Chapel Worldwide
+        <b>For</b> The God Life Assembly International
     </div>
     <strong>&copy; <script>document.write(new Date().getFullYear())</script></strong>, made with <i class="fa fa-heart heart"></i> by <a href="http://www.kingnonso.com">King Nonso</a>
 </footer>
